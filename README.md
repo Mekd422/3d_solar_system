@@ -19,7 +19,7 @@ An interactive 3D solar system simulation built using [Three.js](https://threejs
 
 ## 📸 Demo
 
-> [Live Demo on GitHub Pages (optional)]()
+> [Live Demo on GitHub Pages )]()
 
 ---
 
@@ -32,16 +32,4 @@ An interactive 3D solar system simulation built using [Three.js](https://threejs
 
 ---
 
-## 🗂️ Project Structure
 
-solar-system/
-├── index.html
-├── main.js
-├── package.json
-├── assets/
-│ ├── sun.jpg
-│ ├── earth.jpg
-│ ├── moon.jpg
-│ ├── mercury.jpg
-│ ├── venus.jpg
-│ └── mars.jpg
